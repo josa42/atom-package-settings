@@ -6,4 +6,4 @@
 
 Quickly open settings pane for a specific package.
 
-![](screenshot.gif)
+![](https://raw.githubusercontent.com/josa42/atom-package-settings/master/screenshot.gif)
