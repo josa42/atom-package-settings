@@ -1,0 +1,18 @@
+{
+  "name": "package-settings",
+  "main": "./lib/init",
+  "version": "0.0.0",
+  "description": "Quickly open settings pane for a specific package.",
+  "repository": "https://github.com/josa42/atom-package-settings",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "devDependencies": {
+    "babel-eslint": "^4.1.3",
+    "eslint": "^1.6.0"
+  },
+  "dependencies": {
+    "native-promisify": "^1.2.0"
+  }
+}
