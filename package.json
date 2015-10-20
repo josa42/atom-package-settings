@@ -1,7 +1,7 @@
 {
   "name": "package-settings",
   "main": "./lib/init",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Quickly open settings pane for a specific package.",
   "repository": "https://github.com/josa42/atom-package-settings",
   "license": "MIT",
