@@ -7,3 +7,15 @@
 Quickly open settings pane for a specific package.
 
 ![](https://raw.githubusercontent.com/josa42/atom-package-settings/master/screenshot.gif)
+
+## Keymap
+
+You and map the command `package-settings-show` to a keyboard shortcut for a
+quick access.
+
+Example (`~/.atom/keymap.cson`):
+
+```
+'body':
+  'ctrl-cmd-p':'package-settings-show'
+```
